@@ -1,4 +1,4 @@
-### Saturday, May 6
+### Saturday, May 6 (3 hrs)
 * Reattempted ns-3.33 build on MacServer 
     * Missing boost library fialed build
     * Insufficient permissions to install with brew
@@ -7,7 +7,7 @@
     * Played around with various parameters observed changes in output
 * Video for congestion control in TCP using ns3
 
-### Monday, May 9
+### Monday, May 9 (2 hrs)
 * Tried to run ns-allinone-3.33
     * Error: Missing boost library 
     * Tried to install with brew 
@@ -32,9 +32,10 @@
 ```bash
     brew install boost
 ```
-
+### Monday, May 9 (1 hr)
 * Unable to run ns3 with an old version of python (previously 2.7)
     * https://www.python.org/downloads/
+* Created github reposiroty to log progress
 
 
 
