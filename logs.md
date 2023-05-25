@@ -88,3 +88,13 @@ python3 osmWizard.py
 ```
     * Error with SSL certificate, try 'pip install -U certifi'
 
+### Sunday, May 14 (1.5 hrs)
+* James came to help with the installation of sumo
+* brew install sumo was also unsuccessfull
+* decided to proceed without sumo for now
+
+### Friday, May 19 (1.5 hrs)
+* understanding third.cc
+
+### Thursday, May 25 (1.5 hrs)
+* continuing with third.cc
